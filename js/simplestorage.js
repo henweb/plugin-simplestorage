@@ -23,7 +23,7 @@ define(['../../../_amd/core', '../../../_base/_feat/js/feat_api'], function(wink
 	 * ss.set("p1", "value1");
 	 * var stored = ss.get("p1");
 	 * 
-	 * @compatibility Iphone OS3, Iphone OS4, Android 2.1, Android 2.2, Android 2.3, Android 3.0, Android 3.1, BlackBerry 6, BlackBerry 7, Bada 1.0
+	 * @compatibility Iphone OS3, Iphone OS4, Android 2.1, Android 2.2, Android 2.3, Android 3.0, Android 3.1, BlackBerry 6, BlackBerry 7, Bada 1.0, Windows Phone 8
 	 * 
 	 * @winkVersion 1.4
 	 * 
